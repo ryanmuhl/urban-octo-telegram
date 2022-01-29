@@ -15,7 +15,7 @@ https://ryanmuhl.github.io/urban-octo-telegram/
 https://github.com/ryanmuhl/urban-octo-telegram.git
 
 ## Screenshot
-![Challenge Screenshot](https://github.com/ryanmuhl/urban-octo-telegram.git/assets/css/images/challenge-picture.png)
+![Challenge Screenshot](https://github.com/ryanmuhl/urban-octo-telegram/blob/main/assets/images/challenge-picture.PNG)
 
 ## Contribution
 Refactored by Ryan M. Uhl
